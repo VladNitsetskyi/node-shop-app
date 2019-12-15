@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "app",
+    "MONGO_PASSWORD": "1111",
+    "MONGO_DEFAULT_DB": "shop",
+    "PORT": 3000,
+    "STRIPE_KEY": "sk_test_fu74LHQZQsW5LEdDdVKACuqF00VtOhL6PG"
+  }
+}
